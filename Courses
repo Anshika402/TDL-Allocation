@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>All Courses</title>
+
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="reg2.html">
+    <link rel="stylesheet" href="login2.html">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+</head>
+
+<body>
+
+    <nav class="navbar">
+        <img src="img/logo1.ico" class="logo" alt="">
+        <ul class="links-container">
+            <li class="link-item"><a href="home.html" class="link">Home</a></li>
+            <li class="link-item"><a href="login2.html" class="link">Login</a></li>
+            <li class="link-item"><a href="reg2.html" class="link">Register</a></li>
+        </ul>
+    </nav>
+
+    <section id="courses">
+        <h1 align="center">All Courses</h1>
+        <h4 align="center">Browse All Courses and select the best for you! </h4>
+    </section>
+    <br>
+    <br>
+    <h3 align="center"><u> School of Engineering and Technology</u></h3>
+    <br>
+
+    <div class="row row-cols-1 row-cols-md-3 g-4" style="max-width: 100rem;">
+
+
+
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/img9.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">IoT Based Smart Agriculture Monitoring and Irrigation System</h5>
+                        <p class="card-text">This course gives the basic concepts about connectivity of the internet beyond the computer to everyday items. Current use cases include everything from smart home features, agriculture to business features that orders for IoT
+                            monitored products.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/img10.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">CSS and Javascript for website development</h5>
+                        <p class="card-text">In this TDL course, students will continue to dive deeper into coding techniques and concepts. HTML and CSS is arguably the most important coding language given how widely it is used for all websites, web apps and mobile app development.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/img11.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Cyber Security</h5>
+                        <p class="card-text"> This foundation program is geared towards generating and enhancing awareness about cyber security challenges and the concepts of cyber security and cyber ethics among the stakeholders to help them become responsible cyber citizens
+                            and participate safely and securely in the rapidly evolving information-age society.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p>
+            <h3><u>Vatel Hotel and Tourism School</u></h3>
+        </p>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgv1.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Branding : A creative Journey</h5>
+                        <p class="card-text">In this course, you will go through and learn the entire branding process, from how companies choose their brands, measure their effectiveness, and what strategies they use to keep a brand successful in today’s marketplace</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgv2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Dining Etiquette & Ethics</h5>
+                        <p class="card-text"> this course will facilitate the students to understand the table set up & service in Five Star dining venues. This will help them to understand the basics of Dining etiquette & grooming aspects and mannerism & behavioral approachin
+                            Five Star dining venues.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgv4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Food & Beverage Startup</h5>
+                        <p class="card-text">The course provides an introduction to the leading start-ups with the innovation needs of the food & Beverage industry, helping them to interpret and understand how this startup helps consumers to full fill their desire</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <p align="center">
+            <h3><u>School of Law</u></h3>
+        </p>
+        <br>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgl1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Events that Changed the World</h5>
+                        <p class="card-text"> The course will include major events of world which are responsible for growth of concepts like Democracy, Republic Systems and Institutions like United Nations.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgl2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Constitutional Values</h5>
+                        <p class="card-text">The purpose of the course is to acquaint the students with the Basic Postulates of the Constitution and to give them a picture of Constitutional Parameters regarding the rights and duties accorded to the citizens of India</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgl3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Contemporary Issues of India</h5>
+                        <p class="card-text">It is extremely important for the youth to be well versed with their surroundings and the issues which are glaring in their nation. This course aims to introduce and explain certain contemporary issues in the nation to the students
+                            and to stir a discussion with respect to the same.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <p align="center">
+            <h3><u>School of Business</u></h3>
+        </p>
+        <br>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgb1.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Become a Social Influencer</h5>
+                        <p class="card-text">This course is designed to introduce the students the world of personal branding and how to be visible on social media. This course is for beginners or experienced bloggers/business owners looking to take their brand/business/idea
+                            to the next level</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgb2.png" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Data Analytics</h5>
+                        <p class="card-text">You'll be able to apply what you've learned to excel in your statistics classes and make smarter business decisions. You'll be able to use the many features in SPSS to gather and interpret data more effectively, as well as plan
+                            strategies that will yield the best results as well as the highest profit margins</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgb3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Social Media Marketing for Beginners</h5>
+                        <p class="card-text">Social Media is about building a conversation with the company's clients and consumers. The strategy development portion of a social media campaign is crucial for the success of a company.Strategy and research are of course only
+                            half the battle. Once the marketing strategy is set, it's time to execute!.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <p align="center">
+            <h3><u>School of Health Sciences</u></h3>
+        </p>
+        <br>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgh1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Contagious disease and its prevention</h5>
+                        <p class="card-text">The objective is to educate the students about the basic home management of some diseases and maintenance of personal hygiene in order to improve health and better prognosis of the disease if occurred.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgh2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Cyber Psychology</h5>
+                        <p class="card-text">Cyberpsychology is the study of the human mind and behavior and how the culture of technology, specifically, virtual reality, and social media affect them. Mainstream research studies focus on the effect of the Internet and cyberspace
+                            on the psychology of individuals and groups.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imgh3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Techniques and Methods used in diagnostic centres</h5>
+                        <p class="card-text">As 70% diagnosis of the human body is done in clinical laboratories which helps in assessing a clinical condition of an individual. Will learn about techniques and methods which were developed according to time to achieve accuracy
+                            and precision of every test with decreased testing time and manpower.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br>
+        <p align="center">
+            <h3><u>School of Art and Architecture</u></h3>
+        </p>
+        <br>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imga1.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">The Legacy of Symbolism</h5>
+                        <p class="card-text">The Legacy of Symbolism is a part of its vast art history of late 19th century and early 20th century which address the rich and diverse artistic culture of France and then moves on to the entire world. It will deal with the conflict
+                            between the traditional and modern ideology of artists and society as a whole.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imga2.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Understanding Site Context</h5>
+                        <p class="card-text">The course will provide a brief overview to the understanding site context. It will reinforce the importance of integrated design keeping in mind the opportunities and constraints of a particular site. Students will be able to
+                            learn about basic fundamentals of nature and how they impact any design at any scale, be it a small house, or an entire city</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card">
+                <div class="card text-white bg-dark mb-3" style="max-width: 100rem;">
+                    <img src="img/imga3.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <h5 class="card-title">Digital tools</h5>
+                        <p class="card-text">The course positions to deliver visual narratives which are able to uphold the complexity of the data. The course allows the students to explore various techniques of data styling and visualizations. The goal is to improve their
+                            reading and communication abilities while also rethinking their data management philosophies and considering contemporary communication methods</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+</body>
+
+</html>
